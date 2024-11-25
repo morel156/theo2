@@ -1,0 +1,101 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Conteneur principal du header */
+.header {
+    display: flex;
+    align-items: center; /* Aligne le contenu verticalement */
+    justify-content: space-between; /* Place le logo et le menu aux extrémités */
+    padding: 20px;
+    background-color: #181818; /* Couleur de fond du header */
+}
+
+/* Style du logo */
+.logo {
+    color: yellow;
+    font-size: 2em;
+}
+
+/* Style du menu */
+nav {
+    text-align: right;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex; /* Affiche les items du menu sur une ligne */
+    gap: 20px; /* Espacement entre les items */
+}
+
+nav li {
+    margin: 0;
+}
+
+nav a {
+    font-size: 1.3em;
+    color: yellow;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #181816;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(255, 215, 0, 0.5);
+    transition: 0.2s ease-in-out;
+}
+
+/* Style général du body */
+body {
+    background-color: #181818;
+    color: white;
+}
+
+/* Footer */
+.portail {
+    margin-left: 120px;
+    text-align: center;
+    margin-top: 300px;
+}
+
+p2 {
+    color: #ffd700;
+    text-align: center;
+    margin-top: 300px;
+}
+
+/* Autres styles */
+h1 {
+    color: yellow;
+    font-size: 50px;
+}
+
+.maison1 {
+    text-align: center;
+}
+
+.maison2 {
+    text-align: justify;
+    color: white;
+}
+
+.maison {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    margin-left: 560px;
+}
+.title{
+    text-align: center;
+}
+.about{
+    text-align: center;
+}
+.button{
+    margin-left: 600px;
+}

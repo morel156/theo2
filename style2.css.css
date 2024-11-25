@@ -1,0 +1,76 @@
+*{
+    background-color: yellow;
+}
+.BOB{
+    width: 350px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 12px;
+    text-align:justify;
+    border-radius: 3px;
+    box-shadow: inset;
+    float:right;
+    background-image:url(adobe-xd-img.png) ;
+}
+.image{
+    width: 500px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+    
+}
+.escae{
+    text-align:left;
+    width: 500px;
+    border: 5px solid black;
+    border-radius: 6px;
+    
+}
+.theo1{
+    text-decoration: underline;
+}
+.sac1{
+    
+    
+    text-align: left;
+    margin-bottom: 600px;
+    margin-left: 400px;
+    border: 15px solid black;
+    border-radius:300px ;
+    width: 200px;
+}
+
+.sac2{
+    text-align: right;
+    margin-right: 300px;
+    border: 15px solid black;
+    border-radius:300px ;
+    width: 200px;
+}
+    
+
+.sac3{
+    text-align: right;
+    margin-right: 300px;
+    border: 15px solid black;
+    border-radius:300px ;
+    width: 200px;
+}
+
+.sac4{
+    margin-left: 400px;
+    margin-top: 80px;
+    width: 200px;
+    border: 15px solid black;
+    border-radius:300px ;
+}
+.sac5{
+    margin-left: 400px;
+    margin-top: 30px;
+    border: 15px solid black;
+    border-radius:300px ;
+    width: 200px;
+}
+
